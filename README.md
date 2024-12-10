@@ -59,4 +59,4 @@ void main()
 
 ### 3. Предложить исправление для кода с целью избежать ошибки
 
-- ![upgraded_program.c]()
+- [upgraded_program.c](https://github.com/whynastasya/buffer-overflow/blob/main/upgraded_program.c)
