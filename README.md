@@ -3,10 +3,10 @@
 ## Задание
 Вариант 2 (номер студенческого билета Б0826)
 ```
-\#include <stdio.h>
-\#include <stdlib.h>
-\#include <sys/types.h>
-\#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <unistd.h>
 
 void shell() {
     setreuid(geteuid(), geteuid());
