@@ -2,7 +2,8 @@
 
 ## Задание
 Вариант 2 (номер студенческого билета Б0826)
-`\#include <stdio.h>
+```
+\#include <stdio.h>
 \#include <stdlib.h>
 \#include <sys/types.h>
 \#include <unistd.h>
@@ -23,7 +24,8 @@ void main()
     char buf\[128\];
     fgets(buf,133,stdin);
     func();
-}`
+}
+```
 
 ### 1. Необходимо провести динамическую отладку программного обеспечения с бинарной уязвимостью 
 
